@@ -4,7 +4,7 @@
 ## About Me 
 
 Profissional com mais de 10 anos de experiência e bom conhecimento em suporte e manutenção de redes e servidores, atuando no atendimento e desenvolvendo soluções para melhores resultados e eficiência dos clientes.<br><br>
-Depois desses anos decidi que queria mais e resolvi me aperfeiçoar ingressando nesse do desenvolvimento me apaixonando pelo Front-End, onde estudo com afinco para ter resultados acima da média e conseguir ótimos resultados para que solicitar soluções que alavanquem seus negócios e suas vidas.
+Depois desses anos decidi que queria mais e resolvi me aperfeiçoar ingressando nesse mundo do desenvolvimento me apaixonando pelo Front-End, onde estudo com afinco para ter resultados acima da média e conseguir ótimos resultados para que solicitar soluções que alavanquem seus negócios e suas vidas.
 
 > "É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada." <br>
 > 
