@@ -19,6 +19,15 @@ Depois desses anos decidi que queria mais e resolvi me aperfeiçoar ingressando 
 </div>
 <br><br>
   
+<div align="center"><br> 
+  <a href="https://github.com/cristianolimaribeiro"><img width="760px" alt="Cristiano Lima's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cristianolimaribeiro&custom_title=Cristiano%20Lima%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<br><br><br><br>
+</div>
+<a href="https://github.com/cristianolimaribeiro">
+    <img src="https://komarev.com/ghpvc/?username=cristianolimaribeiro" alt="page views" />
+</a
+
+ ##
  ## Linguagens Estudadas :man_student:
   
 <div style="display: inline_block"><br>  
