@@ -42,6 +42,7 @@ Depois desses anos decidi que queria mais e resolvi me aperfeiçoar ingressando 
    <a href="https://instagram.com/eu.cristianolima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:cristiano.lima.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/cristiano-lima-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://cristianolimaribeiro.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-GitHub.io-%23FFA500?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  </div>
   
   ## 
