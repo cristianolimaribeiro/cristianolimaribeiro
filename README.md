@@ -1,6 +1,8 @@
 
 # Olá, eu sou o Cristiano 😎
 
+<a href="https://app.daily.dev/cristianolima"><img src="https://api.daily.dev/devcards/2f3a93c5777148caba169dca44d239ea.png?r=l2i" width="250" alt="Cristiano Lima Ribeiro's Dev Card"/></a>
+
 ## About Me 
 
 Profissional com mais de 10 anos de experiência e bom conhecimento em suporte e manutenção de redes e servidores, atuando no atendimento e desenvolvendo soluções para melhores resultados e eficiência dos clientes.<br><br>
