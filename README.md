@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Cristiano 😎
 
-<a href="https://app.daily.dev/cristianolima"><img src="https://api.daily.dev/devcards/2f3a93c5777148caba169dca44d239ea.png?r=163" width="400" alt="Cristiano Lima Ribeiro's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/cristianolima"><img src="https://api.daily.dev/devcards/2f3a93c5777148caba169dca44d239ea.png?r=163" width="400" alt="Cristiano Lima Ribeiro's Dev Card"/></a> -->
 
 ## About Me 
 
