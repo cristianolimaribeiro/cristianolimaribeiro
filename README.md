@@ -20,9 +20,6 @@ Marido, pai e desenvolvedor.
 </div>
 <br><br>
   
-<div align="center"><br> 
-  <a href="https://github.com/cristianolimaribeiro"><img width="760px" alt="Cristiano Lima's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cristianolimaribeiro&custom_title=Cristiano%20Lima%27s%20Contribution%20Graph&theme=react-dark" /></a>
-<br><br><br><br>
 </div>
 <a href="https://github.com/cristianolimaribeiro">
     <img src="https://komarev.com/ghpvc/?username=cristianolimaribeiro" alt="page views" />
